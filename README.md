@@ -32,9 +32,15 @@ Sou um estudante de Análise e Desenvolvimento de Sistemas, focado no aprimorame
 
 ### 📊 Stats
 
-![Estatísticas do meu GitHub](https://github-readme-stats.vercel.app/api?username=tavinhvm&show_icons=true&theme=dracula)
+![](https://github-readme-stats.vercel.app/api?username=TavinHVM&show_icons=true&theme=dracula)
+![](https://github-readme-streak-stats.herokuapp.com/?user=TavinHVM&theme=dracula&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=TavinHVM&theme=dracula&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-#
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=TavinHVM&theme=dracula&no-frame=false&no-bg=true&margin-w=4)
+
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dracula)
 
 <details>
  <summary><h3>👨‍💻 Jornada de aprendizado</h3></summary>
