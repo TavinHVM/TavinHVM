@@ -49,6 +49,7 @@ Sou um estudante de Análise e Desenvolvimento de Sistemas, focado no aprimorame
 </details>
 
 Estou em busca de uma oportunidade na área e você pode conhecer melhor meu perfil acessando:
+<br />
  🔗 [Meu currículo](https://github.com/TavinHVM/Curriculo-Profissional/blob/main/Curr%C3%ADculo.pdf)
  <br />
  🔗 [Meu LinkedIn](https://www.linkedin.com/in/gustavo-henrique-6b8352304/)  
