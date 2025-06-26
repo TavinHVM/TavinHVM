@@ -48,7 +48,6 @@ Sou um estudante de Análise e Desenvolvimento de Sistemas, focado no aprimorame
  Comecei minha jornada na área de tecnologia em 2023, ao ingressar no curso de Análise e Desenvolvimento de Sistemas na UNIP, porém desde pequeno sempre fui interessado pela área. Atualmente focado em ser mais versátil, voltando meus esforços ao desenvolvimento Full Stack, masterizando o desenvolvimento de projetos por inteiro, desde o Front-end, Back-end e o Banco de dados.  
 </details>
 
-Estou em busca de uma oportunidade na área e você pode conhecer melhor meu perfil acessando:
 <br />
  🔗 [Meu currículo](https://github.com/TavinHVM/Curriculo-Profissional/blob/main/Curr%C3%ADculo.pdf)
  <br />
