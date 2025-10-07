@@ -51,4 +51,4 @@ Experiência em aplicações web e participação em projetos acadêmicos e open
 <br />
  🔗 [Meu currículo](https://github.com/TavinHVM/Curriculo-Profissional/blob/main/Curriculo%20Gustavo.pdf)
  <br />
- 🔗 [Meu LinkedIn](https://www.linkedin.com/in/gustavo-henrique-6b8352304/)  
+ 🔗 [Meu LinkedIn](https://www.linkedin.com/in/gustavohvdev/)
