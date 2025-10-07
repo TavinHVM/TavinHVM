@@ -2,7 +2,7 @@
 
 **`Desenvolvedor Full Stack`**
 
-Sou um estudante de Análise e Desenvolvimento de Sistemas, focado no aprimoramento contínuo de habilidades técnicas e comportamentais. Complemento minha formação com cursos online e participação em projetos acadêmicos. Tenho interesse em desenvolvimento de software e infraestrutura de TI, sempre buscando desafios para aprender novas tecnologias e melhorar minhas habilidades.
+Experiência em aplicações web e participação em projetos acadêmicos e open source. Possuo sólida formação técnica, capacidade analítica e facilidade para trabalhar em equipe. Desejo atuar contribuindo para a entrega de soluções escaláveis, seguras e de alto impacto que garantam minha evolução como profissional de tecnologia.
 
 ### 🧰 Linguagens e Ferramentas
 
@@ -49,6 +49,6 @@ Sou um estudante de Análise e Desenvolvimento de Sistemas, focado no aprimorame
 </details>
 
 <br />
- 🔗 [Meu currículo](https://github.com/TavinHVM/Curriculo-Profissional/blob/main/Curr%C3%ADculo.pdf)
+ 🔗 [Meu currículo](https://github.com/TavinHVM/Curriculo-Profissional/blob/main/Curriculo%20Gustavo.pdf)
  <br />
  🔗 [Meu LinkedIn](https://www.linkedin.com/in/gustavo-henrique-6b8352304/)  
